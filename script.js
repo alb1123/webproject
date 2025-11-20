@@ -1,4 +1,3 @@
-////////////////////////////////////// Form switching functionality
 document.getElementById('show-signup').addEventListener('click', (e) => {
     e.preventDefault();
     document.getElementById('login-container').classList.add('hidden');

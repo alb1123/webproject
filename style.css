@@ -299,12 +299,12 @@ footer {
     }
 }
 #google-btn {
-    width: 400px;            /* Button container size */
+    width: 400px;            
     height: 40px;
-    overflow: hidden;        /* Prevent cutoff */
+    overflow: hidden;        
 }
 #google-signup-btn {
-  width: 400px;            /* Button container size */
+  width: 400px;            
     height: 40px;
     overflow: hidden;
   height: 40px;  }
